@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/run.png</file>
+        <file>icons/bars.png</file>
+        <file>icons/heartbeat.png</file>
+        <file>icons/lines.png</file>
+        <file>icons/run-kopia.png</file>
+        <file>icons/save.png</file>
+        <file>icons/saveRed.png</file>
+        <file>icons/trigger.png</file>
+        <file>icons/zi.jpg</file>
+        <file>icons/iconfinder_filter_1608702.png</file>
+        <file>icons/uploadFile.png</file>
+    </qresource>
+</RCC>
